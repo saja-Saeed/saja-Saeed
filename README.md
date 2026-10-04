@@ -7,7 +7,7 @@
 Hii, I'm Saja ✨
 </div>
 <br>
-> 🎧 *Currently powered by Spotify playlists, caffeine, and the excitement of building something new.*
+> 🌙 *Fueled by curiosity, late-night debugging, and a browser with way too many tabs open.*
 <br>
 <p>I'm a full-stack developer who loves turning ideas into real-world projects. I work across <b>Software Development</b>, <b>Web &amp; App Development</b>, and <b>AI &amp; Cybersecurity</b>.</p>
 <p>I enjoy building everything from clean, responsive websites to mobile apps and games. Whether I'm designing a smooth user experience, wiring up the backend, or experimenting with something completely new, I love blending creativity with solid engineering.</p>
@@ -36,4 +36,4 @@ Hii, I'm Saja ✨
 <img src="https://img.shields.io/badge/LINKEDIN-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=black">
 <img src="https://img.shields.io/badge/EMAIL-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black">
 <br>
-> 💗 My inbox is always open for collaborations, hackathons, freelance opportunities, or just a friendly tech chat!
+> 🚀 *Got an idea, a stubborn bug, or a project that needs a builder? Let's make it real.*
