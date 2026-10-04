@@ -32,8 +32,10 @@ Hii, I'm Saja ✨
 </div>
 ---
 ✿ Connect with me!
-<img src="https://img.shields.io/badge/GITHUB-F8BBD0?style=for-the-badge&logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/LINKEDIN-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=black">
-<img src="https://img.shields.io/badge/EMAIL-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black">
+<p>
+  <a href="https://github.com/saja-saeed" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-F8BBD0?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/saja-alghamdi-0b50bb437" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=black"></a>
+  <a href="mailto:saja.saeed.gh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-F8BBD0?style=for-the-badge&logo=gmail&logoColor=black"></a>
+</p>
 <br>
 > 🚀 *Got an idea, a stubborn bug, or a project that needs a builder? Let's make it real.*
