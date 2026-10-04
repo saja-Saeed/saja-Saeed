@@ -29,7 +29,9 @@ I like building things end to end: a clean, responsive frontend, a solid backend
 
 ## Outside of coding
 
-Making playlists, exploring new tech, and collecting inspiration for whatever I want to build next.
+- Crime and investigation stories (the more twists, the better)
+- Coffee, always
+- Photography
 
 ## Let's connect
 
